@@ -51,8 +51,8 @@ https://arxiv.org/abs/2202.01017
 ## 발표 url
 https://www.youtube.com/watch?v=h8zj-nwCuAc
 
-##제출물
-report, media 폴더 내 task-01 폴더(보고서, PPT, 영상 링크)
+## 제출물
+[CNU_Multi-Task_Learning/report/task-01|report, media 폴더 내 task-01 폴더] (보고서, PPT, 영상 링크)
 
-##PR링크
+## PR링크
 https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/11
