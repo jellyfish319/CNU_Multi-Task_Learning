@@ -2,7 +2,7 @@
 
 202001156 김수영, 202002510 송재현의 Multi-Task Learning을 주제로 한 충남대학교 컴퓨터융합학부의 종합설계1 및 졸업프로젝트 repository입니다.
 
-저희는 Multi-Task Learning에 대한 구현 및 기존에 발표된 Single Task Learning 기법들을 MTL을 활용해 실제로 MTL이 기존의 기법 대비 성능 향상이 이루어지는지를 목표로 연구를 진행하고 있습니다.
+저희는 Multi-Task Learning에 대한 구현 및 기존에 발표된 Single Task Learning 기법들을 MTL을 활용해 실제로 MTL이 기존의 학습 기법 대비 성능 향상이 이루어지지는지 그 유효성을 검증하기 위한 연구를 진행중에 있습니다.
 
 # 2주차 활동
 
