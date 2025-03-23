@@ -6,7 +6,8 @@
 
 # 2주차 활동
 
-- 활동 개요
+## 활동 개요
+
 문제점 개요서 작성을 위한 논문 탐색 및 설문조사 진행
 
 인용한 논문
@@ -19,28 +20,39 @@
   3. Efficiently Identifying Task Groupings for Multi-Task Learning - Christopher Fifty, Ehsan Amid, Zhe Zhao, Tianhe Yu1, Rohan Anil1, Chelsea Finn1 / NeurLPS/2021
   https://proceedings.nips.cc/paper/2021/file/e77910ebb93b511588557806310f78f1-Paper.pdf
   
-- 발표 url
+## 발표 url
+
 https://www.youtube.com/watch?v=hHRL_S1e5HY
 
-- 제출물
+## 제출물
+
 report, media 폴더 내 task-02 폴더 (보고서, PPT, 영상 링크)
 
--  PR링크
+## PR링크
 
+https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/12
 
 # 1주차 활동
 
-- 활동 개요
+## 활동 개요
+
 연구 개요서 작성 및 작성을 위한 논문 탐색, 정리
+
 인용한 논문
-  
+1. Multitask Learning - Rich Caruana / Machine Learning, July 1997 volume 28, pages 41-75
+https://link.springer.com/article/10.1023/A:1007379606734
 
+2. An Overview of Multi-Task Learning in Deep Neural Networks - Sebastian Ruder / arXiv:1706.05098v1 [cs.LG] 15 Jun 2017
+https://arxiv.org/abs/1706.05098
 
-- 발표 url
+3. Multi-Task Learning as a Bargaining Game - Aviv Navon, Aviv Shamsian, Idan Achituve, Haggai Maron, Kenji Kawaguchi, Gal Chechik, Ethan Fetaya / arXiv:2202.01017v2 [cs.LG] 8 Jul 2022
+https://arxiv.org/abs/2202.01017
+
+## 발표 url
 https://www.youtube.com/watch?v=h8zj-nwCuAc
 
-- 제출물
+##제출물
 report, media 폴더 내 task-01 폴더(보고서, PPT, 영상 링크)
 
-- PR링크
+##PR링크
 https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/11
