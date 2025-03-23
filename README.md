@@ -8,14 +8,15 @@
 
 - 활동 개요
 문제점 개요서 작성을 위한 논문 탐색 및 설문조사 진행
+
 인용한 논문
-  Learning Sparse Sharing Architectures for Multiple Tasks - Tianxiang Sun, Yunfan Shao, Xiaonan Li, Pengfei Liu, Hang Yan, Xipeng Qiu, Xuanjing Huang / AAAI, 2020
+  1. Learning Sparse Sharing Architectures for Multiple Tasks - Tianxiang Sun, Yunfan Shao, Xiaonan Li, Pengfei Liu, Hang Yan, Xipeng Qiu, Xuanjing Huang / AAAI, 2020
   https://ojs.aaai.org/index.php/AAAI/article/view/6424/6280
   
-  Real-World Image Super-Resolution as Multi-Task Learning - Wenlong Zhang, Xiaohui Li, Guangyuan Shi1, Xiangyu Chen, Xiaoyun Zhang, Yu Qiao, Xiao-MingWu1, Chao Dong / NeurLPS, 2023
+  2. Real-World Image Super-Resolution as Multi-Task Learning - Wenlong Zhang, Xiaohui Li, Guangyuan Shi1, Xiangyu Chen, Xiaoyun Zhang, Yu Qiao, Xiao-MingWu1, Chao Dong / NeurLPS, 2023
   https://proceedings.neurips.cc/paper_files/paper/2023/file/42806406dd99e30c3796bc98b2670fa2-Paper-Conference.pdf
   
-  Efficiently Identifying Task Groupings for Multi-Task Learning - Christopher Fifty, Ehsan Amid, Zhe Zhao, Tianhe Yu1, Rohan Anil1, Chelsea Finn1 / NeurLPS/2021
+  3. Efficiently Identifying Task Groupings for Multi-Task Learning - Christopher Fifty, Ehsan Amid, Zhe Zhao, Tianhe Yu1, Rohan Anil1, Chelsea Finn1 / NeurLPS/2021
   https://proceedings.nips.cc/paper/2021/file/e77910ebb93b511588557806310f78f1-Paper.pdf
   
 - 발표 url
