@@ -26,7 +26,8 @@ https://www.youtube.com/watch?v=hHRL_S1e5HY
 
 ## 제출물
 
-report, media 폴더 내 task-02 폴더 (보고서, PPT, 영상 링크)
+[[2주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-02)
+[[2주차 발표 영상 링크]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/media/task-02)
 
 ## PR링크
 
@@ -52,7 +53,8 @@ https://arxiv.org/abs/2202.01017
 https://www.youtube.com/watch?v=h8zj-nwCuAc
 
 ## 제출물
-[CNU_Multi-Task_Learning/report/task-01|report, media 폴더 내 task-01 폴더] (보고서, PPT, 영상 링크)
+[[1주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-01)
+[[1주차 발표 영상 링크]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/media/task-01)
 
 ## PR링크
 https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/11
