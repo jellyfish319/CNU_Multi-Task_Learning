@@ -4,6 +4,34 @@
 
 저희는 Multi-Task Learning에 대한 구현 및 기존에 발표된 Single Task Learning 기법들을 MTL을 활용해 실제로 MTL이 기존의 학습 기법 대비 성능 향상이 이루어지지는지 그 유효성을 검증하기 위한 연구를 진행중에 있습니다.
 
+# 4주차 활동
+
+## 활동 개요
+
+1~3주차 활동 내용 정리를 통한 문제점 정의
+
+인용한 논문
+  1. [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734) - Rich Caruana / Machine Learning, July 1997 volume 28, pages 41-752
+  
+  2. [PVT v2: Improved Baselines with Pyramid Vision Transformer](https://arxiv.org/abs/2106.13797) - Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao / arXiv:2106.13797v7 [cs.CV] 17 Apr 2023
+  
+  3. [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098) - Sebastian Ruder / arXiv:1706.05098v1 [cs.LG] 15 Jun 2017
+
+  4. [[A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks]](https://ieeexplore.ieee.org/document/8848395) - Ting Gong; Tyler Lee; Cory Stephenson; Venkata Renduchintala; Suchismita Padhy; Anthony Ndirango /  IEEE Access Volume 7, p.141627 – 141632
+  
+## 발표 url
+
+[[4주차 발표영상]](https://www.youtube.com/watch?v=y-dkhk1z_6U)
+
+## 제출물
+
+[[4주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-04)
+
+## PR링크
+
+https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/16
+
+
 # 3주차 활동
 
 ## 활동 개요
