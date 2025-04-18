@@ -4,6 +4,28 @@
 
 저희는 Multi-Task Learning에 대한 구현 및 기존에 발표된 Single Task Learning 기법들을 MTL을 활용해 실제로 MTL이 기존의 학습 기법 대비 성능 향상이 이루어지지는지 그 유효성을 검증하기 위한 연구를 진행중에 있습니다.
 
+# 5,6주차 활동
+
+## 활동 개요
+
+유스케이스 탐색 및 보고서 작성
+
+참고 논문
+
+  1. [[HydraNets: Specialized Dynamic Architectures for Efficient Inference]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf) - Ravi Teja Mullapudi, William R.Mark, Noam Shazeer, Kayvon Fatahalian
+
+## 발표 url
+
+[[5,6주차 발표영상]](https://youtu.be/74VPWykiPTU)
+
+## 제출물
+
+[[5,6주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-06)
+
+## PR링크
+
+https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/17
+
 # 4주차 활동
 
 ## 활동 개요
