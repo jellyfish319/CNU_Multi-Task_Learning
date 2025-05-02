@@ -4,6 +4,34 @@
 
 저희는 Multi-Task Learning에 대한 구현 및 기존에 발표된 Single Task Learning 기법들을 MTL을 활용해 실제로 MTL이 기존의 학습 기법 대비 성능 향상이 이루어지지는지 그 유효성을 검증하기 위한 연구를 진행중에 있습니다.
 
+# 7,8주차 활동
+
+## 활동 개요
+
+시퀸스 다이어그램 작성 및 연구 배경/목적 근거 강화
+
+참고 논문
+
+  1. [MulT: An End-to-End Multitask Learning Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Bhattacharjee_MulT_An_End-to-End_Multitask_Learning_Transformer_CVPR_2022_paper.html) - Deblina Bhattacharjee, Tong Zhang, Sabine Susstrunk and Mathieu Salzmann
+  2. [M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design](https://arxiv.org/abs/2210.14793) - Hanxue Liang, Zhiwen Fan, Rishov Sarkar, Ziyu Jiang, Tianlong Chen, Kai Zou, Yu Cheng, Cong Hao, Zhangyang Wang.
+  3. [Pre-Trained Image Processing Transformer](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.html) - Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.
+  4. [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114) - Yu Zhang, Qiang Yang.
+  5. [SwinMTL: A Shared Architecture for Simultaneous Depth Estimation and Semantic Segmentation from Monocular Camera Images](https://arxiv.org/abs/2403.10662) - Pardis Taghavi, Reza Langari, Gaurav Pandey
+  6. [PVT v2: Improved Baselines with Pyramid Vision Transformer](https://arxiv.org/abs/2106.13797) - Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao
+
+## 발표 url
+
+[[7,8주차 발표영상]]()
+
+## 제출물
+
+[[7,8주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-08)
+
+## PR링크
+
+https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/17
+
+
 # 5,6주차 활동
 
 ## 활동 개요
@@ -12,7 +40,7 @@
 
 참고 논문
 
-  1. [[HydraNets: Specialized Dynamic Architectures for Efficient Inference]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf) - Ravi Teja Mullapudi, William R.Mark, Noam Shazeer, Kayvon Fatahalian
+  1. [HydraNets: Specialized Dynamic Architectures for Efficient Inference](https://openaccess.thecvf.com/content_cvpr_2018/papers/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf) - Ravi Teja Mullapudi, William R.Mark, Noam Shazeer, Kayvon Fatahalian
 
 ## 발표 url
 
