@@ -29,7 +29,7 @@
 
 ## PR링크
 
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/17
+https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/18
 
 
 # 5,6주차 활동
@@ -67,7 +67,7 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/17
   
   3. [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098) - Sebastian Ruder / arXiv:1706.05098v1 [cs.LG] 15 Jun 2017
 
-  4. [[A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks]](https://ieeexplore.ieee.org/document/8848395) - Ting Gong; Tyler Lee; Cory Stephenson; Venkata Renduchintala; Suchismita Padhy; Anthony Ndirango /  IEEE Access Volume 7, p.141627 – 141632
+  4. [A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks](https://ieeexplore.ieee.org/document/8848395) - Ting Gong; Tyler Lee; Cory Stephenson; Venkata Renduchintala; Suchismita Padhy; Anthony Ndirango /  IEEE Access Volume 7, p.141627 – 141632
   
 ## 발표 url
 
@@ -89,7 +89,7 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/16
 AI도구와 브레인스토밍을 활용한 문제 정의 구체화 및 아이디어 발산, 수렴
 
 활용한 논문
-  1. [[YOLOP: You Only Look Once for Panoptic Driving Perception]](https://arxiv.org/abs/2108.11250) - Dong Wu, Manwen Liao, Weitian Zhang, Xinggang Wang, Xiang Bai, Wenqing Cheng, Wenyu Liu / arXiv:2108.11250v7 [cs.CV] 26 Mar 2022
+  1. [YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250) - Dong Wu, Manwen Liao, Weitian Zhang, Xinggang Wang, Xiang Bai, Wenqing Cheng, Wenyu Liu / arXiv:2108.11250v7 [cs.CV] 26 Mar 2022
   
   2. [PVT v2: Improved Baselines with Pyramid Vision Transformer](https://arxiv.org/abs/2106.13797) - Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao / arXiv:2106.13797v7 [cs.CV] 17 Apr 2023
   
