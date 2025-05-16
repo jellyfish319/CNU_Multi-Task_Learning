@@ -10,7 +10,7 @@
 
 테스트 케이스 작성 및 구체적인 실험 설계
 
-[](https://imgur.com/a/ZurVq6j)
+![](https://imgur.com/a/ZurVq6j)
 
 ## 발표 url
 
