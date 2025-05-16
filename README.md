@@ -4,6 +4,26 @@
 
 저희는 Multi-Task Learning에 대한 구현 및 기존에 발표된 Single Task Learning 기법들을 MTL을 활용해 실제로 MTL이 기존의 학습 기법 대비 성능 향상이 이루어지지는지 그 유효성을 검증하기 위한 연구를 진행중에 있습니다.
 
+# 11주차 활동
+
+## 활동 개요
+
+테스트 케이스 작성 및 구체적인 실험 설계
+
+[](https://imgur.com/a/ZurVq6j)
+
+## 발표 url
+
+[[11주차 발표영상]](https://youtu.be/-aNx-_Ihf2c)
+
+## 제출물
+
+[[11주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-11)
+
+## PR링크
+
+https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/19
+
 # 7,8주차 활동
 
 ## 활동 개요
@@ -30,7 +50,6 @@
 ## PR링크
 
 https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/18
-
 
 # 5,6주차 활동
 
