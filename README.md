@@ -10,7 +10,7 @@
 
 실험 및 인사이트 확보 / 차후 실험 계획
 
-<img src="https://github.com/jellyfish319/CNU_Multi-Task_Learning/blob/main/src/444712758-a00b77ca-cc23-4a8f-847c-f9cdec6dab81.png">
+<img src="https://github.com/jellyfish319/CNU_Multi-Task_Learning/blob/main/src/https://github.com/jellyfish319/CNU_Multi-Task_Learning/blob/task-13/src/Figure_1.png">
 
 # 11주차 활동
 
