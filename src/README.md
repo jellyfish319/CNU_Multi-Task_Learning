@@ -1,14 +1,19 @@
-# 실험 계획
+# Run
 
-## 1. 데이터셋 다운로드
+## 1. Download Dataset
 
-ImageNet: [https://image-net.org/request](https://image-net.org/request), 로그인 후 request 받아야함   
-COCO2017 train, val: [https://cocodataset.org/#download](https://cocodataset.org/#download), 다운로드가 안될 경우 시크릿창\(Chrome\)에서 시도   
-ADE20K: [https://ade20k.csail.mit.edu/request_data/index.php](https://ade20k.csail.mit.edu/request_data/index.php), 로그인 후 다운   
+NYU: you can download dataset in [here](https://www.dropbox.com/scl/fo/p7n54hqfpfyc6fe6n62qk/AKVb28ZmgDiGdRMNkX5WJvo?rlkey=hcf31bdrezqjih36oi8usjait&e=1&dl=0)
 
-## 2. 모형 설계
+## 2. Train
 
-Backbone Network 모형은 PVT v2를 기반으로 설계 후 Multi-Task Learning을 적용시키는 것이 목적   
-MTL 구현 관련 참고 깃헙   
-LibMTL: https://github.com/median-research-group/LibMTL   
-PVT v2: https://huggingface.co/papers/2106.13797    
+Run main_pvtv2.py in nyu
+
+```
+python main_pvtv2.py --weighting EW --arch HPS --dataset_path /path/to/data --gpu_id 0 --scheduler step --seed 2025 --save_path path/to/save
+```
+
+## 3. Visualize
+
+```
+python visualize.py --model_path path/to/model.pt --dataset_path /path/to/data --mode single --sample_idx 0
+```

@@ -4,6 +4,14 @@
 
 저희는 Multi-Task Learning에 대한 구현 및 기존에 발표된 Single Task Learning 기법들을 MTL을 활용해 실제로 MTL이 기존의 학습 기법 대비 성능 향상이 이루어지지는지 그 유효성을 검증하기 위한 연구를 진행중에 있습니다.
 
+# 12,13주차 활동
+
+## 활동 개요
+
+실험 및 인사이트 확보 / 차후 실험 계획
+
+<img src="https://github.com/jellyfish319/CNU_Multi-Task_Learning/blob/main/src/444712758-a00b77ca-cc23-4a8f-847c-f9cdec6dab81.png">
+
 # 11주차 활동
 
 ## 활동 개요
@@ -173,3 +181,45 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/12
 
 ## PR링크
 https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/11
+
+# License
+
+This repository is released under the Apache 2.0 license as found in the [license](./APACHE_LICENSE) file.
+
+This repository is released under the MIT license as found in the [license](./MIT_LICENSE) file.
+
+# Citiation
+[PVTv2](https://github.com/whai362/PVT)
+```
+@article{wang2021pvtv2,
+  title={Pvtv2: Improved baselines with pyramid vision transformer},
+  author={Wang, Wenhai and Xie, Enze and Li, Xiang and Fan, Deng-Ping and Song, Kaitao and Liang, Ding and Lu, Tong and Luo, Ping and Shao, Ling},
+  journal={Computational Visual Media},
+  volume={8},
+  number={3},
+  pages={1--10},
+  year={2022},
+  publisher={Springer}
+}
+```
+[LibMTL](https://github.com/median-research-group/LibMTL)
+```
+@article{lin2023libmtl,
+  title={{LibMTL}: A {P}ython Library for Multi-Task Learning},
+  author={Baijiong Lin and Yu Zhang},
+  journal={Journal of Machine Learning Research},
+  volume={24},
+  number={209},
+  pages={1--7},
+  year={2023}
+}
+```
+[Swin Transformer V2](https://github.com/microsoft/Swin-Transformer/tree/main?tab=readme-ov-file)
+```
+@inproceedings{liu2021swinv2,
+  title={Swin Transformer V2: Scaling Up Capacity and Resolution}, 
+  author={Ze Liu and Han Hu and Yutong Lin and Zhuliang Yao and Zhenda Xie and Yixuan Wei and Jia Ning and Yue Cao and Zheng Zhang and Li Dong and Furu Wei and Baining Guo},
+  booktitle={International Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
+}
+```
