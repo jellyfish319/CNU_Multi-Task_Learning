@@ -12,6 +12,10 @@
 
 <img src="https://github.com/jellyfish319/CNU_Multi-Task_Learning/blob/task-13/src/Figure_1.png">
 
+## 발표 url
+
+## 제출물
+
 # 11주차 활동
 
 ## 활동 개요
