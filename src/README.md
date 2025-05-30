@@ -6,6 +6,8 @@ NYU: you can download dataset in [here](https://www.dropbox.com/scl/fo/p7n54hqfp
 
 ## 2. Train
 
+You should download pretrained model for training at [here(PVTv2)](https://drive.google.com/drive/folders/1hCaKNrlMF6ut0b36SedPRNC_434R8VVa) and [here(Swin Transformer)](https://drive.google.com/drive/folders/1MCiyAnMI14gyfCrKC4yme0UANNOdtvuH)
+
 Run main_pvtv2.py in nyu
 
 ```

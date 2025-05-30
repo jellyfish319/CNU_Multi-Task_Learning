@@ -25,7 +25,7 @@ def parse_args(parser):
     return parser.parse_args()
 
 class PVT_V2_B2_Encoder(PyramidVisionTransformerV2):
-    def __init__(self, pretrained_path="~/pretrained/pvt_v2_b2.pth", **kwargs):
+    def __init__(self, pretrained_path="/path/to/pretrained_model.pth", **kwargs):
         super(PVT_V2_B2_Encoder, self).__init__(
             img_size=224,
             patch_size=4,
