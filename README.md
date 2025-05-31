@@ -12,9 +12,21 @@
 
 <img src="https://github.com/jellyfish319/CNU_Multi-Task_Learning/blob/task-13/src/Figure_1.png">
 
+참고 논문 및 오픈소스
+
+
+
 ## 발표 url
 
+[[13주차 발표영상]](https://www.youtube.com/watch?v=T1f0r6NxWZ4)
+
 ## 제출물
+
+[[13주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-13)
+
+## PR링크
+
+https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/21
 
 # 11주차 활동
 
