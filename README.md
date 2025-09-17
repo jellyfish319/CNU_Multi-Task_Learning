@@ -1,6 +1,6 @@
 # Multi-Task Learning
 
-202001156 김수영, 202002510 송재현의 Multi-Task Learning을 주제로 한 충남대학교 컴퓨터융합학부의 종합설계1 및 졸업프로젝트 repository입니다.
+202001156 김수영, 202002510 송재현의 Multi-Task Learning을 주제로 한 컴퓨터융합학부의 종합설계1 및 졸업프로젝트 repository입니다.
 
 저희는 Multi-Task Learning에 대한 구현 및 기존에 발표된 Single Task Learning 기법들을 MTL을 활용해 실제로 MTL이 기존의 학습 기법 대비 성능 향상이 이루어지지는지 그 유효성을 검증하기 위한 연구를 진행중에 있습니다.
 
@@ -10,7 +10,7 @@
 
 실험 및 인사이트 확보 / 차후 실험 계획
 
-<img src="https://github.com/jellyfish319/CNU_Multi-Task_Learning/blob/task-13/src/Figure_1.png">
+<img src="https://github.com/jellyfish319/Capstone_Multi-Task_Learning/blob/task-13/src/Figure_1.png">
 
 참고 논문 및 오픈소스
 
@@ -22,11 +22,11 @@
 
 ## 제출물
 
-[[13주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-13)
+[[13주차 보고서 및 발표 자료]](https://github.com/jellyfish319/Capstone_Multi-Task_Learning/tree/main/report/task-13)
 
 ## PR링크
 
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/21
+https://github.com/jellyfish319/Capstone_Multi-Task_Learning/pull/21
 
 # 11주차 활동
 
@@ -34,7 +34,7 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/21
 
 테스트 케이스 작성 및 구체적인 실험 설계
 
-<img src="https://github.com/jellyfish319/CNU_Multi-Task_Learning/blob/main/src/444712758-a00b77ca-cc23-4a8f-847c-f9cdec6dab81.png">
+<img src="https://github.com/jellyfish319/Capstone_Multi-Task_Learning/blob/main/src/444712758-a00b77ca-cc23-4a8f-847c-f9cdec6dab81.png">
 
 ## 발표 url
 
@@ -42,11 +42,11 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/21
 
 ## 제출물
 
-[[11주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-11)
+[[11주차 보고서 및 발표 자료]](https://github.com/jellyfish319/Capstone_Multi-Task_Learning/tree/main/report/task-11)
 
 ## PR링크
 
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/19
+https://github.com/jellyfish319/Capstone_Multi-Task_Learning/pull/19
 
 # 7,8주차 활동
 
@@ -69,11 +69,11 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/19
 
 ## 제출물
 
-[[7,8주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-08)
+[[7,8주차 보고서 및 발표 자료]](https://github.com/jellyfish319/Capstone_Multi-Task_Learning/tree/main/report/task-08)
 
 ## PR링크
 
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/18
+https://github.com/jellyfish319/Capstone_Multi-Task_Learning/pull/18
 
 # 5,6주차 활동
 
@@ -91,11 +91,11 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/18
 
 ## 제출물
 
-[[5,6주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-06)
+[[5,6주차 보고서 및 발표 자료]](https://github.com/jellyfish319/Capstone_Multi-Task_Learning/tree/main/report/task-06)
 
 ## PR링크
 
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/17
+https://github.com/jellyfish319/Capstone_Multi-Task_Learning/pull/17
 
 # 4주차 활동
 
@@ -118,11 +118,11 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/17
 
 ## 제출물
 
-[[4주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-04)
+[[4주차 보고서 및 발표 자료]](https://github.com/jellyfish319/Capstone_Multi-Task_Learning/tree/main/report/task-04)
 
 ## PR링크
 
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/16
+https://github.com/jellyfish319/Capstone_Multi-Task_Learning/pull/16
 
 
 # 3주차 활동
@@ -144,11 +144,11 @@ AI도구와 브레인스토밍을 활용한 문제 정의 구체화 및 아이�
 
 ## 제출물
 
-[[3주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-03)
+[[3주차 보고서 및 발표 자료]](https://github.com/jellyfish319/Capstone_Multi-Task_Learning/tree/main/report/task-03)
 
 ## PR링크
 
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/15
+https://github.com/jellyfish319/Capstone_Multi-Task_Learning/pull/15
 
 # 2주차 활동
 
@@ -169,11 +169,11 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/15
 
 ## 제출물
 
-[[2주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-02)
+[[2주차 보고서 및 발표 자료]](https://github.com/jellyfish319/Capstone_Multi-Task_Learning/tree/main/report/task-02)
 
 ## PR링크
 
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/12
+https://github.com/jellyfish319/Capstone_Multi-Task_Learning/pull/12
 
 # 1주차 활동
 
@@ -193,10 +193,10 @@ https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/12
 [[2주차 발표영상]](https://www.youtube.com/watch?v=h8zj-nwCuAc)
 
 ## 제출물
-[[1주차 보고서 및 발표 자료]](https://github.com/jellyfish319/CNU_Multi-Task_Learning/tree/main/report/task-01)
+[[1주차 보고서 및 발표 자료]](https://github.com/jellyfish319/Capstone_Multi-Task_Learning/tree/main/report/task-01)
 
 ## PR링크
-https://github.com/jellyfish319/CNU_Multi-Task_Learning/pull/11
+https://github.com/jellyfish319/Capstone_Multi-Task_Learning/pull/11
 
 # License
 
